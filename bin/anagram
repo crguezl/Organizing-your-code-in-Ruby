@@ -1,0 +1,3 @@
+#!/usr/bin/ruby -Ilib 
+require 'anagram/runner'
+Anagram::Runner.new(ARGV).run
