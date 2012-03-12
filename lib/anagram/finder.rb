@@ -1,3 +1,5 @@
+##########################
+######### PP2 ############
 module Anagram
   class Finder
     attr_accessor :signatures
