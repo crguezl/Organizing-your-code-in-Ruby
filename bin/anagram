@@ -1,3 +1,4 @@
 #!/usr/bin/ruby -Ilib 
+# YAC: Yet another comment
 require 'anagram/runner'
 Anagram::Runner.new(ARGV).run
