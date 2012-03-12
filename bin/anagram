@@ -1,3 +1,4 @@
 #!/usr/bin/ruby -Ilib 
+# an incopatible change in master
 require 'anagram/runner'
 Anagram::Runner.new(ARGV).run
