@@ -1,3 +1,4 @@
+# another comment
 require 'optparse'
 
 module Anagram
