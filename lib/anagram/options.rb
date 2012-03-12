@@ -1,4 +1,5 @@
 # another comment
+# and yet antoher comment
 require 'optparse'
 
 module Anagram
