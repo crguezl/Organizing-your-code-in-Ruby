@@ -1,3 +1,4 @@
+# PP2
 require 'rake/gempackagetask'
 
 spec = Gem::Specification.load(Dir['*.gemspec'].first)
