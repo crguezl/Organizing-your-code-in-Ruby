@@ -2,7 +2,3 @@
 - How to modify your commit to include changes you forgot (git commit --amend)
 - Show how to unstage a file that was previously staged (git reset HEAD file)
 - *********************************************
-
-1
-2
-3
