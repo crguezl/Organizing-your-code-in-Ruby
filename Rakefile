@@ -1,4 +1,4 @@
-# playing with branches
+# 1
 require 'rake/gempackagetask'
 
 spec = Gem::Specification.load(Dir['*.gemspec'].first)
