@@ -1,6 +1,7 @@
 # jeje
 # jiji
 # jojo
+# juju
 require 'rake/gempackagetask'
 
 spec = Gem::Specification.load(Dir['*.gemspec'].first)
