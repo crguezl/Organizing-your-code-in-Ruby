@@ -1,8 +1,4 @@
-### 444
-## 333
-## 111
-## 222
-
+# jojo
 require 'rake/gempackagetask'
 
 spec = Gem::Specification.load(Dir['*.gemspec'].first)
