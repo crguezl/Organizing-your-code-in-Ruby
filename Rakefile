@@ -21,7 +21,7 @@ Rake::TestTask.new do |t|
   t.verbose = true # verbose test output. (default is false)
 end
 
-
+# This section is for "cleaning"
 task :clean => :clobber_package
 require 'rake/clean'
 CLEANLIST = [ 'pkg/' ]
