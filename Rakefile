@@ -26,5 +26,3 @@ task :clean => :clobber_package
 require 'rake/clean'
 CLEANLIST = [ 'pkg/' ]
 CLEAN.include(CLEANLIST)
-
-********
